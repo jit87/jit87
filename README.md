@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Update README](https://github.com/jit87/jit87/actions/workflows/update-stats.yml/badge.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jit87)]
