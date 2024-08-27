@@ -1,1 +1,28 @@
+name: Update README
 
+on:
+  schedule:
+    - cron: '0 0 * * *' # Este cron job se ejecuta diariamente a medianoche UTC
+  workflow_dispatch: # Permite ejecutar la acción manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository content
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Generate language stats
+      run: |
+        npx @lowlighter/metrics@latest
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m "Update language stats in profile"
+        git push
