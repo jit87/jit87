@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Ejecuta diariamente a medianoche UTC
+    - cron: '*/15 * * * *' # Ejecuta cada 15 minutos para pruebas
   workflow_dispatch: # Permite ejecución manual
 
 jobs:
