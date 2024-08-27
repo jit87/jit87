@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Ejecuta a la medianoche
+    - cron: '0 0 * * *' # Ejecuta diariamente a medianoche UTC
   workflow_dispatch: # Permite ejecución manual
 
 jobs:
@@ -21,8 +21,8 @@ jobs:
     - name: Generate language stats
       run: |
         npx @lowlighter/metrics@latest
-        ls -la  # Lista los archivos generados
-        cat README.md  # Muestra el contenido del README.md
+        ls -la
+        cat README.md
 
     - name: Configure Git
       run: |
