@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Este cron job se ejecuta diariamente a medianoche UTC
-  workflow_dispatch: # Permite ejecutar la acción manualmente
+    - cron: '0 0 * * *' # Ejecuta diariamente a medianoche UTC
+  workflow_dispatch: # Permite ejecución manual
 
 jobs:
   build:
@@ -21,8 +21,16 @@ jobs:
     - name: Generate language stats
       run: |
         npx @lowlighter/metrics@latest
+        ls -la  # Lista los archivos generados
+        cat README.md  # Muestra el contenido del README.md
+
+    - name: Configure Git
+      run: |
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Commit and push changes
+      run: |
         git add README.md
-        git commit -m "Update language stats in profile"
-        git push
+        git commit -m "Update language stats in profile" || echo "No changes to commit"
+        git push || echo "Failed to push changes"
