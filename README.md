@@ -1,8 +1,16 @@
-<h3 title="Welcome to my profile">👋Bienvenido a mi perfil 💬</h3> 
+<h3>👋Bienvenido a mi perfil</h3> 
 <ul style="list-style:none;">
-  <li title="My latest projects are coded in Angular">Mis últimos proyectos están programados en Angular.💬</li>
-  <li title="I'm interested in the MEAN stack for web development, though I love programming in general">Estoy interesado en el <m>MEAN stack</m> para la web, aunque me encanta la programación en general.💬</li>
-  <li title="Contact">Contacto: jit.info.proyectos@gmail.com 💬</li>
+  <li>Mis últimos proyectos están programados en Angular.</li>
+  <li>Estoy interesado en el <m>MEAN stack</m> para la web, aunque me encanta la programación en general.</li>
+  <li>Contacto: jit.info.proyectos@gmail.com</li>
 </ul><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jit87&langs_count=8&layout=compact&locale=es)
+
+
+<h3>👋Welcome to my profile</h3> 
+<ul style="list-style:none;">
+  <li>My latest projects are coded in Angular</li>
+  <li>I'm interested in the MEAN stack for web development, though I love programming in general</li>
+  <li>Contact: jit.info.proyectos@gmail.com 💬</li>
+</ul><br>
