@@ -7,7 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jit87&langs_count=8&layout=compact&locale=es)
 
---
 
 <h3>👋Welcome to my profile</h3> 
 <ul style="list-style:none;">
