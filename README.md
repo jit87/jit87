@@ -14,5 +14,3 @@
   <li>I'm interested in the MEAN stack for web development, though I love programming in general</li>
   <li>Contact: jit.info.proyectos@gmail.com</li>
 </ul><br>
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jit87&show_icons=true&theme=radical)
