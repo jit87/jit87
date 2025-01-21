@@ -1,7 +1,7 @@
 <h3>👋Bienvenido a mi perfil</h3> 
 <ul style="list-style:none;">
   <li>Mis últimos proyectos están programados en Angular.</li>
-  <li>Estoy interesado en el stack<m>MEAN y MERN </m> para la web, aunque me encanta la programación en general.</li>
+  <li>Estoy interesado en el stack <m>MEAN y MERN </m> para la web, aunque me encanta la programación en general.</li>
   <li>Contacto: jit.info.proyectos@gmail.com</li>
 </ul><br>
 
