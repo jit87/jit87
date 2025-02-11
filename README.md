@@ -5,7 +5,7 @@
   <li>Contacto: jit.info.proyectos@gmail.com</li>
 </ul><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jit87&langs_count=8&layout=compact&locale=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jit87&langs_count=10&layout=compact&locale=es)
 
 
 <h3>👋Welcome to my profile</h3> 
