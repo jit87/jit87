@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jit87&langs_count=10&layout=compact&locale=es)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jit87&include_all_commits=true&count_private=true&theme=radical)
+
 
 <h3>👋Welcome to my profile</h3> 
 <ul style="list-style:none;">
