@@ -21,5 +21,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Code-Angular-red?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Backend-Express.js-black?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
