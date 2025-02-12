@@ -18,7 +18,7 @@
   <li>Contact: jit.info.proyectos@gmail.com</li>
 </ul><br>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Code-Angular-red?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white">
