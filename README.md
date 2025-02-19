@@ -24,4 +24,5 @@
   <img src="https://img.shields.io/badge/Backend-Express.js-black?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud-Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
