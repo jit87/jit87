@@ -5,15 +5,6 @@
   <li>Contacto: jit.info.proyectos@gmail.com</li>
 </ul><br>
 
---
-
-<h3>👋Welcome to my profile</h3> 
-<ul style="list-style:none;">
-  <li>My latest projects are coded in Angular</li>
-  <li>I'm interested in the MEAN and MERN stack for web development, though I love programming in general</li>
-  <li>Contact: jit.info.proyectos@gmail.com</li>
-</ul><br>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Code-Angular-red?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react&logoColor=white">
