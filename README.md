@@ -3,6 +3,7 @@
   <li>Mis últimos proyectos están programados en Angular.</li>
   <li>Estoy interesado en el stack <m>MEAN y MERN </m> para la web, aunque me encanta la programación en general.</li>
   <li>Contacto: jit.info.proyectos@gmail.com</li>
+  <li>Probando <m>Gentle-AI</m> como agente de IA para desarrollo.</li>
 </ul><br>
 
 <p align="left">
